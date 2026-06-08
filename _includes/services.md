@@ -38,6 +38,7 @@
   <li><a href="https://iopscience.iop.org/journal/1402-4896"><autocolor>Physica Scripta</autocolor></a></li>
   <li><a href="https://iopscience.iop.org/journal/2631-8695"><autocolor>Engineering Research Express (ERX)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/10515"><autocolor>Automated Software Engineering (ASE)</autocolor></a></li>
+  <li><a href="https://iopscience.iop.org/journal/2057-1976"><autocolor>Biomedical Physics & Engineering Express</autocolor></a></li>
   <li><a href="https://www.frontiersin.org/journals/artificial-intelligence"><autocolor>Frontiers in Artificial Intelligence</autocolor></a></li>
   <li><a href="https://www.frontiersin.org/journals/marine-science"><autocolor>Frontiers in Marine Science</autocolor></a></li>
   <li><a href="https://www.frontiersin.org/journals/energy-research"><autocolor>Frontiers in Energy Research</autocolor></a></li>
