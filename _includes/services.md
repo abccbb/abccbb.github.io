@@ -14,6 +14,7 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.sciencedirect.com/journal/information-processing-and-management"><autocolor>Information Processing & Management (IPM)</autocolor></a></li>
+    <li><a href="https://www.sciencedirect.com/journal/neural-networks"><autocolor>Neural Networks</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424"><autocolor>IEEE Transactions on Industrial Informatics (TII)</autocolor></a></li>
 
   <li><a href="https://www.nature.com/palcomms/"><autocolor>Humanities and Social Sciences Communications (HSSC)</autocolor></a></li>
