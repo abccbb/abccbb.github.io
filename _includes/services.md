@@ -14,11 +14,14 @@
 
 <ul style="margin:0 0 20px;">
   <li><a href="https://www.sciencedirect.com/journal/information-processing-and-management"><autocolor>Information Processing & Management (IPM)</autocolor></a></li>
-    <li><a href="https://www.sciencedirect.com/journal/neural-networks"><autocolor>Neural Networks</autocolor></a></li>
+    <li><a href="https://www.sciencedirect.com/journal/neural-networks"><autocolor>Neural Networks (NN)</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424"><autocolor>IEEE Transactions on Industrial Informatics (TII)</autocolor></a></li>
 
   <li><a href="https://www.nature.com/palcomms/"><autocolor>Humanities and Social Sciences Communications (HSSC)</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence"><autocolor>Engineering Applications of Artificial Intelligence (EAAI)</autocolor></a></li>  
+  <li><a href="https://www.sciencedirect.com/journal/applied-soft-computing"><autocolor>Applied Soft Computing (ASOC)</autocolor></a></li>  
+
+
   <li><a href="https://link.springer.com/journal/10845"><autocolor>Journal of Intelligent Manufacturing (JIMS)</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/ocean-engineering"><autocolor>Ocean Engineering</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/44443"><autocolor>Journal of King Saud University Computer and Information Sciences</autocolor></a></li>
