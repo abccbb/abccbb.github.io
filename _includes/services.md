@@ -39,8 +39,10 @@
   <li><a href="https://link.springer.com/journal/13042"><autocolor>International Journal of Machine Learning and Cybernetics (IJMLC)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/44196"><autocolor>International Journal of Computational Intelligence Systems</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/41060"><autocolor>International Journal of Data Science and Analytics</autocolor></a></li>
-    <li><a href="https://link.springer.com/journal/10044"><autocolor>Pattern Analysis and Applications</autocolor></a></li>
+  <li><a href="https://link.springer.com/journal/10044"><autocolor>Pattern Analysis and Applications</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/11220"><autocolor>Sensing and Imaging</autocolor></a></li>
+  <li><a href="https://link.springer.com/journal/12880"><autocolor>BMC Medical Imaging</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/healthcare-analytics"><autocolor>Healthcare Analytics</autocolor></a></li>  
   <li><a href="https://iopscience.iop.org/journal/1402-4896"><autocolor>Physica Scripta</autocolor></a></li>
   <li><a href="https://iopscience.iop.org/journal/2631-8695"><autocolor>Engineering Research Express (ERX)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/10515"><autocolor>Automated Software Engineering (ASE)</autocolor></a></li>
