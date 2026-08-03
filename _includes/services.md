@@ -25,6 +25,8 @@
   <li><a href="https://link.springer.com/journal/10845"><autocolor>Journal of Intelligent Manufacturing (JIMS)</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/ocean-engineering"><autocolor>Ocean Engineering</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/44443"><autocolor>Journal of King Saud University Computer and Information Sciences</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/energy-nexus"><autocolor>Energy Nexus</autocolor></a></li>
+
   <li><a href="https://www.sciencedirect.com/journal/pattern-recognition-letters"><autocolor>Pattern Recognition Letters (PRL)</autocolor></a></li>
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=97"><autocolor>IEEE Signal Processing Letters (SPL)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/11554"><autocolor>Journal of Real-Time Image Processing (JRTIP)</autocolor></a></li>
