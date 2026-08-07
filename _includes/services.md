@@ -20,6 +20,8 @@
   <li><a href="https://www.nature.com/palcomms/"><autocolor>Humanities and Social Sciences Communications (HSSC)</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/engineering-applications-of-artificial-intelligence"><autocolor>Engineering Applications of Artificial Intelligence (EAAI)</autocolor></a></li>  
   <li><a href="https://www.sciencedirect.com/journal/applied-soft-computing"><autocolor>Applied Soft Computing (ASOC)</autocolor></a></li>  
+  <li><a href="https://www.sciencedirect.com/journal/neurocomputing"><autocolor>Neurocomputing</autocolor></a></li>  
+
 
 
   <li><a href="https://link.springer.com/journal/10845"><autocolor>Journal of Intelligent Manufacturing (JIMS)</autocolor></a></li>
