@@ -55,6 +55,8 @@
   <li><a href="https://link.springer.com/journal/10515"><autocolor>Automated Software Engineering (ASE)</autocolor></a></li>
   <li><a href="https://iopscience.iop.org/journal/2057-1976"><autocolor>Biomedical Physics & Engineering Express</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/array"><autocolor>Array</autocolor></a></li>
+    <li><a href="https://www.techscience.com/journal/CMES"><autocolor>CMES-Computer Modeling in Engineering & Sciences</autocolor></a></li>
+
   <li><a href="https://www.frontiersin.org/journals/artificial-intelligence"><autocolor>Frontiers in Artificial Intelligence</autocolor></a></li>
   <li><a href="https://www.frontiersin.org/journals/marine-science"><autocolor>Frontiers in Marine Science</autocolor></a></li>
   <li><a href="https://www.frontiersin.org/journals/energy-research"><autocolor>Frontiers in Energy Research</autocolor></a></li>
