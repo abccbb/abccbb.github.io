@@ -49,6 +49,10 @@
   <li><a href="https://link.springer.com/journal/41060"><autocolor>International Journal of Data Science and Analytics</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/10044"><autocolor>Pattern Analysis and Applications</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/11220"><autocolor>Sensing and Imaging</autocolor></a></li>
+  <li><a href="https://journals.sagepub.com/home/sci"><autocolor>Science Progress</autocolor></a></li>
+
+  
+
   <li><a href="https://link.springer.com/journal/12880"><autocolor>BMC Medical Imaging</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/healthcare-analytics"><autocolor>Healthcare Analytics</autocolor></a></li>  
   <li><a href="https://iopscience.iop.org/journal/1402-4896"><autocolor>Physica Scripta</autocolor></a></li>
