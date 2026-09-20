@@ -75,4 +75,5 @@
   <li><a href="https://link.springer.com/journal/44163"><autocolor>Discover Artificial Intelligence</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/42452"><autocolor>Discover Applied Sciences</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/43674"><autocolor>Advances in Computational Intelligence</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/informatics-in-medicine-unlocked"><autocolor>Informatics in Medicine Unlocked</autocolor></a></li>
 </ul>
