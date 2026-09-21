@@ -29,8 +29,8 @@
   <li><a href="https://www.sciencedirect.com/journal/computers-and-industrial-engineering"><autocolor>Computers & Industrial Engineering</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/10845"><autocolor>Journal of Intelligent Manufacturing (JIMS)</autocolor></a></li>
   
-  
-  
+
+    <li><a href="https://www.sciencedirect.com/journal/optics-and-laser-technology"><autocolor>Optics and Laser Technology</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/ocean-engineering"><autocolor>Ocean Engineering</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/44443"><autocolor>Journal of King Saud University Computer and Information Sciences</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/energy-nexus"><autocolor>Energy Nexus</autocolor></a></li>
