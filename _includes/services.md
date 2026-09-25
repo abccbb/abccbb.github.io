@@ -33,6 +33,9 @@
   <li><a href="https://www.sciencedirect.com/journal/optics-and-laser-technology"><autocolor>Optics and Laser Technology</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/ocean-engineering"><autocolor>Ocean Engineering</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/44443"><autocolor>Journal of King Saud University Computer and Information Sciences</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/international-journal-of-electrical-power-and-energy-systems"><autocolor>International Journal of Electrical Power & Energy Systems</autocolor></a></li>
+
+  
   <li><a href="https://www.sciencedirect.com/journal/energy-nexus"><autocolor>Energy Nexus</autocolor></a></li>
     <li><a href="https://www.sciencedirect.com/journal/journal-of-pipeline-science-and-engineering"><autocolor>Journal of Pipeline Science and Engineering</autocolor></a></li>
 
