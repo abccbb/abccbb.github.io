@@ -72,6 +72,9 @@
 
   <li><a href="https://www.frontiersin.org/journals/artificial-intelligence"><autocolor>Frontiers in Artificial Intelligence</autocolor></a></li>
   <li><a href="https://www.frontiersin.org/journals/marine-science"><autocolor>Frontiers in Marine Science</autocolor></a></li>
+  <li><a href="https://www.frontiersin.org/journals/medicine"><autocolor>Frontiers in Medicine</autocolor></a></li>
+
+  
   <li><a href="https://www.frontiersin.org/journals/energy-research"><autocolor>Frontiers in Energy Research</autocolor></a></li>
   <li><a href="https://www.benthamscience.com/journal/33/about-journal"><autocolor>Current Medical Imaging (CMIM)</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/10791"><autocolor>Discover Computing</autocolor></a></li>
