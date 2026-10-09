@@ -57,6 +57,10 @@
   <li><a href="https://link.springer.com/journal/41060"><autocolor>International Journal of Data Science and Analytics</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/10044"><autocolor>Pattern Analysis and Applications</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/11220"><autocolor>Sensing and Imaging</autocolor></a></li>
+  <li><a href="https://link.springer.com/journal/42947"><autocolor>International Journal of Pavement Research and Technology</autocolor></a></li>
+
+
+
   <li><a href="https://journals.sagepub.com/home/sci"><autocolor>Science Progress</autocolor></a></li>
 
   
