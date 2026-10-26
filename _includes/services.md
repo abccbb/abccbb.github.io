@@ -18,6 +18,9 @@
   <li><a href="https://www.sciencedirect.com/journal/information-processing-and-management"><autocolor>Information Processing & Management (IPM)</autocolor></a></li>
     <li><a href="https://www.sciencedirect.com/journal/pattern-recognition">Pattern Recognition (PR)<autocolor></autocolor></a></li>
     <li><a href="https://www.sciencedirect.com/journal/neural-networks"><autocolor>Neural Networks (NN)</autocolor></a></li>
+    <li><a href="https://link.springer.com/journal/10115"><autocolor>Knowledge and Information Systems</autocolor></a></li>
+  
+
   <li><a href="https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=9424"><autocolor>IEEE Transactions on Industrial Informatics (TII)</autocolor></a></li>
 
   <li><a href="https://www.nature.com/palcomms/"><autocolor>Humanities and Social Sciences Communications (HSSC)</autocolor></a></li>
