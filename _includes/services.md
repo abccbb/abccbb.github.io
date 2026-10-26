@@ -71,6 +71,8 @@
 
   <li><a href="https://journals.sagepub.com/home/sci"><autocolor>Science Progress</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/journal-of-engineering-research"><autocolor>Journal of Engineering Research</autocolor></a></li>
+  <li><a href="https://www.sciencedirect.com/journal/journal-of-food-composition-and-analysis"><autocolor>Journal of Food Composition and Analysis</autocolor></a></li>
+
 
   
 
