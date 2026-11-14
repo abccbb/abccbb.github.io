@@ -8,7 +8,7 @@
   <li><a href="https://bmvc2025.bmva.org/"><autocolor>36th British Machine Vision Conference (BMVC) 2025</autocolor></a></li>
   <li><a href="https://2026.ieeeicme.org/"><autocolor>26th IEEE International Conference on Multimedia & Expo (ICME) 2026</autocolor></a></li>
   <li><a href="https://attend.ieee.org/wcci-2026/"><autocolor>44th International Joint Conference on Neural Networks (IJCNN) 2026</autocolor></a></li>
-  <li><a href="https://2027.ieeeicassp.org/"><autocolor>52nd IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2026</autocolor></a></li>
+  <li><a href="https://2027.ieeeicassp.org/"><autocolor>52nd IEEE International Conference on Acoustics, Speech, and Signal Processing (ICASSP) 2027</autocolor></a></li>
 
 </ul>
 
@@ -96,6 +96,7 @@
   <li><a href="https://link.springer.com/journal/10791"><autocolor>Discover Computing</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/44163"><autocolor>Discover Artificial Intelligence</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/42452"><autocolor>Discover Applied Sciences</autocolor></a></li>
+  <li><a href="https://link.springer.com/journal/44584"><autocolor>Discover Computer Vision</autocolor></a></li>
   <li><a href="https://link.springer.com/journal/43674"><autocolor>Advances in Computational Intelligence</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/informatics-in-medicine-unlocked"><autocolor>Informatics in Medicine Unlocked</autocolor></a></li>
 </ul>
