@@ -30,8 +30,9 @@
   <li><a href="https://www.sciencedirect.com/journal/applied-soft-computing"><autocolor>Applied Soft Computing (ASOC)</autocolor></a></li>  
   <li><a href="https://www.sciencedirect.com/journal/neurocomputing"><autocolor>Neurocomputing</autocolor></a></li>  
 
-
+  <li><a href="https://www.sciencedirect.com/journal/automation-in-construction"><autocolor>Automation in Construction</autocolor></a></li>
   <li><a href="https://www.sciencedirect.com/journal/computers-and-industrial-engineering"><autocolor>Computers & Industrial Engineering</autocolor></a></li>
+  
   <li><a href="https://link.springer.com/journal/10845"><autocolor>Journal of Intelligent Manufacturing (JIMS)</autocolor></a></li>
   
 
